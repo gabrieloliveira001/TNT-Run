@@ -1,0 +1,25 @@
+name: Tntrun
+main: com.byebye.minigames.Main
+version: 1.0
+author: byebye, byebye001(discord)
+description: Um plugin de exemplo para Minecraft.
+api-version: 1.21.4
+
+commands:
+  setloc:
+    description: salva uma localizacao
+    usage: /setloc nome
+    permission: op
+  savearea:
+    description: salva uma localizacao
+    usage: /savearea nome
+    permission: op
+  loadarea:
+    description: salva uma localizacao
+    usage: /loadarea nome
+    permission: op
+  tntrun:
+    description: salva uma localizacao
+    usage: /tntrun start
+    permission: op
+
